@@ -1,0 +1,64 @@
+header{
+    background-color: #FFF9F4;
+}
+.navbar-brand img{
+    width: 291.11px;
+    height: 39.27px;
+}
+.navbar-nav a{
+    font-size: 16px;
+    color: #3C3C3C;
+}
+.banner-side img{
+    width: 600px;
+    height: 450px;
+}
+.banner-side h1{
+    font-weight: 700;
+    font-size: 80px;
+    text-transform: uppercase;
+    color: #363958;
+}
+.banner-side .highlight{
+    color: #FA804C;
+}
+.banner-side p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #3E3E3E;
+}
+.banner-side .banner-btn{
+    padding: 18px 36px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+.banner-side .banner-btn:hover{
+    background: #FA804C;
+}
+.price .banner-btn{
+    padding: 4px 8px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+.price .banner-btn:hover{
+    background: #363958;
+}
+.price p{
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 42px;
+    color: #FA804C;
+}
+.card-img-top{
+    width: 100%;
+    height: 350px;
+}
+
+.icon-img img{
+    width: 78px;
+    height: 82px;
+}
